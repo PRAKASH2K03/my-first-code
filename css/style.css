@@ -1,0 +1,13 @@
+body {
+    background-color: #1a1a2e; /* Deep dark blue */
+    color: #e94560;           /* Vibrant pink/red text */
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
